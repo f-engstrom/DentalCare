@@ -1,0 +1,11 @@
+C:\Users\Frans\Dropbox\Projects\DentalCare\bin\Debug\netcoreapp3.0\DentalCare.exe
+C:\Users\Frans\Dropbox\Projects\DentalCare\bin\Debug\netcoreapp3.0\DentalCare.deps.json
+C:\Users\Frans\Dropbox\Projects\DentalCare\bin\Debug\netcoreapp3.0\DentalCare.runtimeconfig.json
+C:\Users\Frans\Dropbox\Projects\DentalCare\bin\Debug\netcoreapp3.0\DentalCare.runtimeconfig.dev.json
+C:\Users\Frans\Dropbox\Projects\DentalCare\bin\Debug\netcoreapp3.0\DentalCare.dll
+C:\Users\Frans\Dropbox\Projects\DentalCare\bin\Debug\netcoreapp3.0\DentalCare.pdb
+C:\Users\Frans\Dropbox\Projects\DentalCare\obj\Debug\netcoreapp3.0\DentalCare.csprojAssemblyReference.cache
+C:\Users\Frans\Dropbox\Projects\DentalCare\obj\Debug\netcoreapp3.0\DentalCare.AssemblyInfoInputs.cache
+C:\Users\Frans\Dropbox\Projects\DentalCare\obj\Debug\netcoreapp3.0\DentalCare.AssemblyInfo.cs
+C:\Users\Frans\Dropbox\Projects\DentalCare\obj\Debug\netcoreapp3.0\DentalCare.dll
+C:\Users\Frans\Dropbox\Projects\DentalCare\obj\Debug\netcoreapp3.0\DentalCare.pdb
